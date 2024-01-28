@@ -10,3 +10,5 @@ console.log('age' in person); // 输出 false
 for (let key in person) {
   console.log(key, person[key]);
 }
+
+// 因为 JavaScript 的对象是基于哈希表实现的，哈希表的这些基本操作的时间复杂度都是 O(1)。但请注意，这是在最佳情况下的时间复杂度，如果发生哈希冲突，这些操作的时间复杂度可能会变为 O(n)。
