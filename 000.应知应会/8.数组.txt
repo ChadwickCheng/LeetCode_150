@@ -1,0 +1,32 @@
+push(element1, ..., elementN): 添加新元素到数组的末尾，并返回新的长度。
+
+pop(): 移除数组的最后一个元素并返回该元素。
+
+shift(): 移除数组的第一个元素并返回该元素。
+
+unshift(element1, ..., elementN): 添加新元素到数组的开头，并返回新的长度。
+
+concat(array2, ..., arrayN): 合并两个或更多数组，并返回一个新数组。
+
+join(separator): 将数组的所有元素连接成一个字符串。
+
+slice(start, end): 返回一个新的数组，包含从 start 到 end （不包括 end）的数组的元素。
+
+splice(start, deleteCount, item1, ..., itemN): 在数组中添加/删除项目，然后返回被删除的项目。
+
+sort(compareFunction): 对数组的元素进行排序，并返回数组。
+
+reverse(): 颠倒数组中元素的顺序。
+
+map(callback(currentValue, index, array), thisArg): 创建一个新数组，其结果是该数组中的每个元素都调用一个提供的函数后返回的结果。
+
+filter(callback(element, index, array), thisArg): 创建一个新数组，其包含通过所提供函数实现的测试的所有元素。
+
+reduce(callback(accumulator, currentValue, currentIndex, array), initialValue): 对数组中的每个元素执行一个提供的 reducer 函数(升序执行)，将其结果汇总为单个返回值。
+
+find(callback(element, index, array), thisArg): 返回数组中满足提供的测试函数的第一个元素的值。否则返回 undefined。
+
+forEach(callback(currentValue, index, array), thisArg): 对数组的每个元素执行一次提供的函数。
+
+includes 方法会返回一个布尔值，表示数组是否包含指定的元素
+indexOf 方法用于查找数组中指定元素的第一个匹配项的索引。如果找不到匹配项，它将返回 -1
