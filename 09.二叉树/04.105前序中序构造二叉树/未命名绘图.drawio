@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-02-13T13:35:24.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="_AZhwHn2t0FdmyzKc5_E" version="22.0.2" type="device">
+  <diagram name="第 1 页" id="CaQ5Pl5CneJ1mWshdA4l">
+    <mxGraphModel dx="1393" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-6" value="7" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-7" value="15" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-8" value="20" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-9" value="9" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-10" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-11" value="7" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-12" value="20" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-13" value="15" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-14" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vKhjgCznwaFZsfPTP1pQ-15" value="9" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

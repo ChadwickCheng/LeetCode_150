@@ -40,3 +40,5 @@ for (let [key, value] of map.entries()) {
 map.forEach((value, key) => {
   console.log(key, value);
 });
+
+// next() 是迭代器对象的一个方法，它返回迭代器的下一个结果。在这个情况下，它返回的是 Map 对象中的第一个键。
